@@ -25,30 +25,30 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 
 ## Study-Material
-[async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
+[Async Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
+[Inquirer](https://www.npmjs.com/package/inquirer)
 
-[https://www.npmjs.com/package/inquirer
+[Path](https://www.npmjs.com/package/path)
 
-[https://www.npmjs.com/package/path
+[Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
-[https://fontawesome.com/v5.15/icons?d=gallery&p=2
+[NodeJs](https://nodejs.org/api/fs.html)
 
-[https://nodejs.org/api/fs.html>
+[Jumbotron](https://getbootstrap.com/docs/4.0/components/jumbotron/)
 
-[https://getbootstrap.com/docs/4.0/components/jumbotron/
+[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+[Understanding Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 
-[https://www.sitepoint.com/understanding-module-exports-exports-node-js/
-
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 
 ## Features
 This team profile generator was built using node.js through vsCode using the integrated terminal
 
 ## Links
+
 [Repository](https://github.com/jmoniz155/team_profile_generator)
 
 [Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
