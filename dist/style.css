@@ -1,0 +1,13 @@
+.jumbotron{
+    background-color: aqua;
+    color: black;
+}
+
+.card-header{
+    background-color: aqua;
+
+}
+
+.card{
+    width:30%;
+}
