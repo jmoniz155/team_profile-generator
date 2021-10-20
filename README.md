@@ -21,7 +21,7 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 [Repository](https://github.com/jmoniz155/team_profile_generator)
 
-[Demo-Video](https://watch.screencastify.com/v/h3ZvBeNdwnW2gweBQcwz)
+[Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
 
 
 ## Study-Material
@@ -50,4 +50,4 @@ This team profile generator was built using node.js through vsCode using the int
 ## Links
 [Repository](https://github.com/jmoniz155/team_profile_generator)
 
-[Demo-Video](https://watch.screencastify.com/v/h3ZvBeNdwhttps://fullstackworld.com/2019-04-23-javascript-markdown-parser-markdown-it/nW2gweBQcwz)
+[Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
